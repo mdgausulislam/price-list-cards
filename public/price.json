@@ -1,0 +1,35 @@
+[
+        {
+            "id": 1,
+            "product": "Laptop",
+            "price": 999.99,
+            "description": "High-performance laptop",
+            "features": [
+                "Fast Processor",
+                "Large Display",
+                "High RAM"
+            ]
+        },
+        {
+            "id": 2,
+            "product": "Smartphone",
+            "price": 599.99,
+            "description": "Flagship smartphone",
+            "features": [
+                "5G Connectivity",
+                "Dual Cameras",
+                "Long Battery Life"
+            ]
+        },
+        {
+            "id": 3,
+            "product": "Tablet",
+            "price": 349.99,
+            "description": "Budget-friendly tablet",
+            "features": [
+                "HD Screen",
+                "Expandable Storage",
+                "Android OS"
+            ]
+        }
+]
